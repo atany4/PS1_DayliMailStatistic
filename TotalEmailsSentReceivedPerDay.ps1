@@ -2,6 +2,7 @@
 # *.ps1 -auto
 # *.ps1 -csv Y
 # *.ps1 -startFromDate '11/10/2018'   ## MM/dd/yyyy 
+
 param(
     [switch]$Auto,
     $startFromDate,
